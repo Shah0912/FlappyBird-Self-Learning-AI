@@ -78,3 +78,5 @@ The training process involves running the AI agent through multiple generations.
 - **Neural Network Visualization**: Implement visualization of the neural network’s structure and evolution.
 - **Multiplayer Mode**: Add a multiplayer mode where multiple AI agents compete for the highest score.
 - **Advanced Obstacles**: Introduce additional obstacles or challenges for the agent to overcome.
+## Screenshot of the current AI gameplay
+![image](https://github.com/user-attachments/assets/5b29716b-0cf0-47bc-87a5-33575c7c8a2e)
